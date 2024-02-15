@@ -1,0 +1,42 @@
+
+.wizard__buttons-right, .wizard__buttons-left {
+    background-color:  #ffa366;
+    
+}
+
+.wizard__buttons-right{
+  margin-left: 290px;
+}
+
+.wizard {
+  background-color: white;
+
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+  margin-top: 50px;
+  min-width: 500px;
+  max-width: 500px;
+  margin-left: 30%;
+  padding: 70px;
+  border-radius: 10px;
+  box-shadow: 5px 10px #fff2e6
+}
+
+.wizard__content{
+  display: flex;
+    
+}
+
+button {
+  color: white;
+  padding: 10px;
+  border-radius: 8px;
+  border-style: none;
+  width: 100px;
+  margin-top: 20px;
+}
+
+button:hover {
+  background-color: #ff6600;
+}

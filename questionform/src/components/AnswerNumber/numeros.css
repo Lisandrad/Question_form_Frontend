@@ -1,0 +1,23 @@
+.text {
+    width: 2.8em;
+    height: 3em;
+    align-content: center;
+    background-color: aquamarine;
+    border-radius: 5px;
+    margin: 2px;
+}
+
+.text:hover {
+    background-color: #ff6600;
+}
+
+.rating-active {
+    background-color: #ff6600;
+}
+
+
+.text {
+    cursor: pointer;
+    text-align: center;
+}
+

@@ -1,0 +1,10 @@
+.box {
+    width: 30em;
+    height: 6em;
+    border-radius: 8px;
+    font-size: medium;
+}
+
+.box:hover {
+    background-color: bisque;
+}
